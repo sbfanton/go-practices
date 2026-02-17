@@ -2,7 +2,7 @@
 
 ## Descarga de GO
 
-![Link releases](https://go.dev/dl/some-image.png)
+[Link releases](https://go.dev/dl/some-image.png)
 
 ## Comandos útiles
 
